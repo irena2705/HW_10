@@ -1,0 +1,176 @@
+    1  brew install --cask dbeaver-community
+    2  brew install --cask dbeaver-community
+    3  brew install --cask dbeaver-community
+    4  touch mydb.sqlite
+    5  cd Downloads
+    6  touch mydb.sqlite.txt
+    7  xcode-select --install
+    8  xcode-select --install
+    9  xcode-select --install
+   10  xcode-select --install
+   11  git --version
+   12  which git
+   13  xcode-select -p
+   14  du -sh /Library/Developer/CommandLineTools
+   15  git config --global user.name "Iryna"
+   16  git config --global user.email "irishka1600@gmail.com"
+   17  git --version
+   18  ls
+   19  cd Desktop
+   20  ls
+   21  cd ..
+   22  ls
+   23  ls
+   24  cd ~
+   25  cd Desktop
+   26  pwd
+   27  cd Desktop
+   28  ls
+   29  pwd
+   30  mkdir Lesson
+   31  cd Lesson
+   32  touch lesson.txt
+   33  vim lesson.txt
+   34  vim lesson.txt
+   35  nano lesson.txt
+   36  nano lesson.txt
+   37  cat lesson.txt
+   38  cp lesson.txt
+   39  pwd
+   40  cp /Users/irynalutsenko/Desktop/Lesson /Users/irynalutsenko/Desktop/Lesson
+   41  cp /Users/irynalutsenko/Desktop/Lesson /Users/irynalutsenko/Desktop
+   42  cp /Users/irynalutsenko/Desktop/Lesson /Users/irynalutsenko/Downloads
+   43  cp /Users/irynalutsenko/Desktop/Lesson/lesson.txt /Users/irynalutsenko/Desktop/Lesson
+   44  cp /Users/irynalutsenko/Desktop/Lesson/lesson.txt /Users/irynalutsenko/Downloads
+   45  mv /Users/irynalutsenko/Desktop/Lesson/lesson.txt /Users/irynalutsenko/Downloads
+   46  mv /Users/irynalutsenko/Downloads/lesson.txt /Users/irynalutsenko/Desktop/Lesson
+   47  rm lesson.txt
+   48  ping google.com
+   49  date
+   50  rm Lesson
+   51  clear
+   52  git config --global user.name "Iryna"
+   53  git config --global user.email "irishka1600@gmail.com"
+   54  git clone https://github.com/irena2705/learnGit.git
+   55  pwd
+   56  cd Lesson
+   57  cd Desktop/Lesson
+   58  git clone https://github.com/irena2705/learnGit.git
+   59  cd learnGit
+   60  git status
+   61  touch New.txt
+   62  git status
+   63  git add New.txt
+   64  git status
+   65  git commit -m "new file created"
+   66  git status
+   67  git log
+   68  git branch
+   69  git checkout -b newBranch
+   70  git branch
+   71  git checkout main
+   72  git checkout newBranch
+   73  nano New.txt
+   74  git status
+   75  git commit -m "new modified"
+   76  git add New.txt
+   77  git commit -m "new modified"
+   78  git status
+   79  git branch
+   80  git status
+   81  git log
+   82  git checkout main
+   83  cat New.txt
+   84  git checkout newBranch
+   85  cat New.txt
+   86  git checkout main
+   87  git merge newBranch
+   88  git status
+   89  git push
+   90  git push
+   91  git push
+   92  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
+   93  git push
+   94  clear
+   95  cd Homework
+   96  cd desktop
+   97  cd /Desktop
+   98  ls
+   99  pwd
+  100  cd /Users/irynalutsenko/Desktop/Homework
+  101  -c && rm ~/.bash_history
+  102  clear
+  103  cd Desktop/Homework
+  104  pwd
+  105  -c && rm ~/.bash_history
+  106  git config --global user.name "Iryna"
+  107  git config --global user.email "irishka1600@gmail.com"
+  108  git clone https://github.com/irena2705/HW_10.git
+  109  cd /Users/irynalutsenko/Desktop/Homework/HW_10
+  110  touch text_ignore.txt
+  111  git status
+  112  nano .gitignore
+  113  vim .gitignore
+  114  cd desktop/Homework/HW_10
+  115  pwd
+  116  vim .gitignore
+  117  git status
+  118  cat .gitignore
+  119  git check-ignore -v text_ignore.txt
+  120  git status
+  121  git add .
+  122  git commit -m "Add text_ignore.txt to gitignore"
+  123  git status
+  124  touch main_test.txt
+  125  git add .
+  126  git commit -m "file main_test.txt is created"
+  127  git checkout -b develop
+  128  git checkout develop
+  129  touch develop_test.txt
+  130  git add .
+  131  git commit -m"develop_test.txt created"
+  132  nano develop_test.txt
+  133  git status
+  134  git add .
+  135  git commit -m "develop_test file modified"
+  136  git checkout main
+  137  git merge develop
+  138  git log
+  139  history 0 > command_list.csv
+  140  git add .
+  141  git commit -m "branches merged"
+  142  git push
+  143  git push
+  144  git log
+  145  git push
+  146  git push
+  147  clear
+  148  git checkout main
+  149  git log
+  150  git push
+  151  git config --global user.name "Iryna"
+  152  git config --global user.email "irishka1600@gmail.com\n
+  153  git config --global user.email "irishka1600@gmail.com"
+  154  cd Desktop/Homework
+  155  git clone https://github.com/irena2705/HW_10.git
+  156  pwd
+  157  cd /Users/irynalutsenko/Desktop/Homework/HW_10
+  158  touch text_ignore.txt
+  159  vim .gitignore
+  160  git status
+  161  git add .
+  162  git commit -m ".gitignore file is modified"
+  163  touch main_test.txt
+  164  git add .
+  165  git commit -m "file main_test is created"
+  166  git checkout -b develop
+  167  touch develop_test.txt
+  168  git add .
+  169  git commit -m"file develop_test.txt is created"
+  170  nano develop_test.txt
+  171  git status
+  172  git add .
+  173  git commit -m"file develop_test modified"
+  174  git checkout main
+  175  git merge develop
+  176  git log
